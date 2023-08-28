@@ -1,4 +1,5 @@
 #**Introduction to Classification**
+
 This is an introductory notebook on classification in machine learning, addressing some of the essential steps in data mining. It involves data preprocessing (data cleaning), model training, testing, and the selection of an appropriate model for solving the problem, along with choosing the optimal metric for model validation.
 
 Note: This notebook was predominantly authored in Portuguese (pt-br).
