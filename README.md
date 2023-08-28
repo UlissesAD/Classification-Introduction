@@ -1,10 +1,10 @@
-#**Introduction to Classification**
+# **Introduction to Classification**
 
 This is an introductory notebook on classification in machine learning, addressing some of the essential steps in data mining. It involves data preprocessing (data cleaning), model training, testing, and the selection of an appropriate model for solving the problem, along with choosing the optimal metric for model validation.
 
 Note: This notebook was predominantly authored in Portuguese (pt-br).
 
-#**Introdução à Classificação**
+# **Introdução à Classificação**
 Este é um notebook introdutório sobre classificação em aprendizado de máquina, abordando alguns dos passos essenciais na mineração de dados. Ele engloba o pré-processamento dos dados (limpeza dos dados), treinamento e teste de um modelo apropriado para o problema, juntamente com a seleção da métrica ideal para a validação do modelo.
 
 Observação: Este caderno foi primariamente escrito em português (pt-br).
